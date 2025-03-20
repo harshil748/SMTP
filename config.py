@@ -4,8 +4,8 @@ Store sensitive data here and add this file to .gitignore.
 """
 
 # Email configuration
-SENDER_EMAIL = "sgp.noreplydce@gmail.com"
-SENDER_PASSWORD = "haub ylen jpof ypse"
+SENDER_EMAIL = "your mail address"
+SENDER_PASSWORD = "your app password"
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 
