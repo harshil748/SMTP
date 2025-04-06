@@ -7,7 +7,7 @@ Store sensitive data here and add this file to .gitignore.
 SENDER_EMAIL = "sgp.noreplydce@gmail.com"
 SENDER_PASSWORD = "haub ylen jpof ypse"
 SMTP_SERVER = "smtp.gmail.com"
-SMTP_PORT = 58
+SMTP_PORT = 587
 # Verification settings
 CODE_LENGTH = 6
 CODE_EXPIRATION_SECONDS = 300  # 5 minutes
